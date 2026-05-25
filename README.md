@@ -10,11 +10,11 @@ The goal of this repository is to apply core Python principles to real-world sys
 * **Focus:** Data Structures, Algorithmic Logic, and System Automation.
 
 ## 📂 Project Library
-- `/arithmetic-formatter` — [Description of your first FCC project]
-- `/time-calculator` — [Description of your second FCC project]
-- `/budget-app` — [Description of your third FCC project]
-- `/polygon-area-calculator` — [Description of your fourth FCC project]
-- `/probability-calculator` — [Description of your fifth FCC project]
+- `/arithmetic-formatter` —  
+- `/time-calculator` —  
+- `/budget-app` —  
+- `/polygon-area-calculator` —  
+- `/probability-calculator` —  
 
 ## 📝 Philosophical Foundations
 *"Control the memory, control the machine."*
