@@ -19,5 +19,4 @@ The goal of this repository is to apply core Python principles to real-world sys
 ## 📝 Philosophical Foundations
 *"Control the memory, control the machine."*
 
-This work is p
-art of my broader commitment to bridging high-level architectural logic with low-level industrial reliability as I prepare for the Master of Science in Software Engineering (MSSE) program.
+This work is part of my broader commitment to bridging high-level architectural logic with low-level industrial reliability as I prepare for the Master of Science in Software Engineering (MSSE) program.
