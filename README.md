@@ -1,6 +1,6 @@
 # python-systems-engineering
 
-This repository houses my technical implementations for the FreeCodeCamp Python v9 Certification. 
+This repository houses my technical implementations for the FreeCodeCamp Python v9 Certification.
 
 ## 🎯 Mission
 The goal of this repository is to apply core Python principles to real-world system engineering and algorithmic challenges. Each project focuses on modularity, readability, and performance.
@@ -9,12 +9,10 @@ The goal of this repository is to apply core Python principles to real-world sys
 * **Language:** Python 3.10+
 * **Focus:** Data Structures, Algorithmic Logic, and System Automation.
 
-## 📂 Project Library
-- `/arithmetic-formatter` —  
-- `/time-calculator` —  
-- `/budget-app` —  
-- `/polygon-area-calculator` —  
-- `/probability-calculator` —  
+## 📂 Modules
+* **[OOP](/oop)**: Implementations of Encapsulation, Inheritance, and Polymorphism.
+* **[Data Structures](/data_structures)**: *[Coming Soon]*
+* **[Certification Projects](/certification_projects)**: *[Coming Soon]*
 
 ## 📝 Philosophical Foundations
 *"Control the memory, control the machine."*
